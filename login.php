@@ -18,8 +18,8 @@ function sendRealEmail($to, $otp) {
 
     // ===== GMAIL SETTINGS =====
     $smtpHost  = 'smtp.gmail.com';
-    $smtpEmail = 'yash.laners@gmail.com';     // YOUR EMAIL
-    $smtpPass  = 'hvhwwrqdtklqiofd';          // APP PASSWORD (NO SPACES!)
+    $smtpEmail = 'Enter Your Mail ';     // YOUR EMAIL
+    $smtpPass  = 'Set Mail Password For Send OTP';          // APP PASSWORD (NO SPACES!)
     // ==========================
 
     // PHPMailer must exist in: PHPMailer/src/
@@ -391,3 +391,4 @@ $email = $_SESSION['login_email'] ?? $_SESSION['otp_email'] ?? '';
 </div>
 </body>
 </html>
+
