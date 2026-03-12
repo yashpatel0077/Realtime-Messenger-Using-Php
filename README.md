@@ -1,12 +1,12 @@
 # PHP Messenger
 
-A full-featured messenger application built with **PHP, MySQL, JavaScript, AJAX, HTML, and CSS**. It supports one-to-one chat, group chat, user search, unread messages, pin/hide chat options, and file attachments like images, audio, PDF, TXT, and HTML files. [web:188][web:441]
+A full-featured messenger application built with **PHP, MySQL, JavaScript, AJAX, HTML, and CSS**. It supports one-to-one chat, group chat, user search, unread messages, pin/hide chat options, and file attachments like images, audio, PDF, TXT, and HTML files. 
 
 ## Features
 
-- One-to-one private messaging. [web:188]
-- Group chat creation and messaging. [web:176]
-- AJAX-based sending and loading for a smoother chat experience. [web:439][web:442]
+- One-to-one private messaging. 
+- Group chat creation and messaging. 
+- AJAX-based sending and loading for a smoother chat experience. 
 - User search to start new conversations.
 - Pin chat / unpin chat.
 - Hide / unhide chats and groups.
@@ -31,7 +31,7 @@ A full-featured messenger application built with **PHP, MySQL, JavaScript, AJAX,
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
 - **Database:** MySQL
-- **Asynchronous requests:** AJAX / Fetch / XMLHttpRequest [web:439][web:442]
+- **Asynchronous requests:** AJAX / Fetch / XMLHttpRequest 
 - **Local server:** XAMPP / Apache / MySQL
 
 ## Project Structure
